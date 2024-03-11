@@ -1,4 +1,4 @@
-Corp Recommendation Machine Learning Model using K Nearest Neighbor recommendation algorithm 
+Crop Recommendation Machine Learning Model using K Nearest Neighbor recommendation algorithm 
 
 Precision agriculture is in trend nowadays. It helps the farmers to take important decision about the farming strategy. 
 Here, we build a predictive model to recommend the most suitable crops to grow in a particular farm based on various parameters.
